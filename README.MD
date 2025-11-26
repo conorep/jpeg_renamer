@@ -26,3 +26,7 @@ rename files as many times as you want of course, but it defeats the productivit
 * 020-0047-02_SN0047_out_1.jpg
 * 020-0047-02_SN0047_out_2.jpg
 * 020-0047-02_SN0047_out_3.jpg
+
+
+### TODO:
+Rename the program now that it can resize photos.
